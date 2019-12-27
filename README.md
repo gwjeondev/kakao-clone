@@ -8,4 +8,4 @@ https://won-developer.github.io/kakao-clone/
 
 ### Device type
 
-모바일 화면에 최적화 되어 있습니다.
+너비 768이하로 최적화 되어 있습니다.
