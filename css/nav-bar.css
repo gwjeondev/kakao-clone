@@ -7,6 +7,7 @@
     bottom: 0;
     border-top: 1px solid #f7f7f7;
     font-size: 20px;
+    animation: shownav 1s .5s ease-in-out backwards;
 }
 .nav .nav__list {
     display: flex;
@@ -28,4 +29,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+@keyframes shownav {
+    0% {
+        opacity: 0;
+        transform: translateY(80px);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
 }
