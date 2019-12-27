@@ -8,4 +8,5 @@ https://won-developer.github.io/kakao-clone/
 
 ### Device type
 
-너비 768이하로 최적화 되어 있습니다.
+너비 768px 이하 환경에서만 동작 합니다.
+768px 이상일 때 'Yellow background'가 출력 됩니다.
