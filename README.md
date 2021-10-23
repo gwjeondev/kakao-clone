@@ -4,7 +4,7 @@
 
 ## URL
 
-https://won-developer.github.io/kakao-clone/
+https://gwjeondev.github.io/kakao-clone/
 
 ### Device type
 
